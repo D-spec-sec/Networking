@@ -1,4 +1,4 @@
-### collision domains
+### Collision domains
 With the advancement of networking technologies, especially in switched Ethernet environments, collision domains have seen a reduction in size. Switched networks create separate collision domains for each connected device, minimizing the chances of collisions compared to traditional shared media environments like hubs.
 
 ### Broadcast Domains
