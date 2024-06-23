@@ -1,0 +1,1 @@
+VxLAN (Virtual Extensible LAN) is a technology that enables the creation of virtual networks over existing Layer 3 infrastructure. It uses a 24-bit segment ID field, allowing for up to 16 million unique networks to be created, making it a suitable choice for expanding VLANs within a company.
