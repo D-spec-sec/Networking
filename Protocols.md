@@ -1,0 +1,1 @@
+H.323 (ITU-T recommendation for multimedia communication) and SIP (Session Initiation Protocol) are signaling protocols used for call session initiation and setup. They work in conjunction with RTP (Real-time Transport Protocol) to provide reliable packet delivery and other services for multimedia communication.
